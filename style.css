@@ -1,0 +1,73 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #676767;
+  color: #f9fafb;
+  line-height: 1.7;
+}
+nav {
+  background-color: #4a4a4a;
+  padding: 20px;
+  text-align: center;
+  position: sticky;
+  top: 0;
+}
+
+nav a {
+  color: #60a5fa;
+  text-decoration: none;
+  margin: 0 15px;
+  font-weight: bold;
+}
+
+nav a:hover{
+  color: white;
+}
+
+section {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 60px 25px;
+}
+
+h1 {
+  font-size: 22px;
+  color: #60a5fa;
+}
+
+h2 {
+  color: #60a5fa;
+}
+
+#welcome {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+#welcome h2 {
+  font-size: 48px;
+  margin: 0;
+}
+
+#welcome h3 {
+  font-size: 22px;
+}
+
+a {
+  color: #60a5fa;
+}
+
+#skills li {
+  margin-bottom: 8px;
+}
+
+
+
+
+
+
+
+
+
+
+  
